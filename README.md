@@ -1,33 +1,63 @@
-# Multi-Agent Business Intelligence Assistant
-Kaggle 5-Day AI Agents Intensive Course — Capstone Project
+# Multi-Agent Business Intelligence Assistant  
+Kaggle 5-Day AI Agents Intensive Course — Capstone Project  
 
-## Overview
-This project implements a multi-agent system to automate business analytics: data collection, analysis, insights (Gemini), visualization, and forecasting.
+---
 
-## Features
-- Data Collector Agent
-- Analysis Agent (statistical summary & correlation)
-- Insight Agent (Gemini LLM)
-- Visualization Agent (pandas + seaborn + matplotlib)
-- Prediction Agent (Linear Regression)
-- Sessions & logging for reproducibility
+## 📌 Project Thumbnail  
+![Thumbnail](images/Thumbnail.png)
 
-## Demo Outputs
-- Statistical summary & correlation matrix
-- Gemini-generated insights
-- Sales forecasting
-- Visualization charts
+---
 
+## 🧠 Overview  
+This project implements a multi-agent system to automate business analytics including:  
+- Data collection  
+- Statistical analysis  
+- Insight generation using Gemini  
+- Visualizations  
+- Sales forecasting  
 
-## Architecture Diagram
-![Architecture](architecture/architecture_diagram.png)
+---
 
-## Video
-The project demo video for Kaggle submission: *paste your YouTube UNLISTED link here*
+## 🧱 Architecture  
+![Architecture](images/architecture.png)
 
-## How to run
-1. `pip install -r requirements.txt`
-2. Open `notebook/multi_agent_bi.ipynb` in Jupyter or Kaggle
+**Pipeline:**  
+Data Collector → Analysis Agent → Insight Agent → Visualization Agent → Prediction Agent  
 
-## Author
-Kundrapu Ram Kumar — ramkumar20034@gmail.com
+---
+
+## 📊 Analysis Output  
+![Analysis Output](images/Analysis_output.png)
+
+---
+
+## 📈 Visualization Plot  
+![Visualization Plot](images/visualization_plot.png)
+
+---
+
+## 🔮 Sales Forecast  
+![Sales Forecast](images/Sales_forecast.png)
+
+---
+
+## 📺 Video  
+Project demo (Kaggle submission):
+👉 *Paste your YouTube unlisted video link here*
+
+---
+
+## 🚀 Features  
+- Multi-Agent Orchestration  
+- Gemini LLM Integration  
+- Predictive Modeling  
+- Visualization Generation  
+- Session Memory  
+- Detailed Logging  
+
+---
+
+## 📦 How to Run  
+
+```bash
+pip install -r requirements.txt
