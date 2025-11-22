@@ -60,4 +60,7 @@ Project demo (Kaggle submission):
 ## 📦 How to Run  
 
 ```bash
-pip install -r requirements.txt
+1.pip install -r requirements.txt
+2. Open notebook/multi_agent_bi.ipynb in Jupyter or Kaggle
+
+ ## Author Kundrapu Ram Kumar — ramkumar20034@gmail.com
