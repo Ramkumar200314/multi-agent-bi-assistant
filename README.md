@@ -27,17 +27,17 @@ Data Collector → Analysis Agent → Insight Agent → Visualization Agent → 
 ---
 
 ## 📊 Analysis Output  
-![Analysis Output](images/Analysis_output.png)
+![Analysis Output](images/Analysis_agent_output.png)
 
 ---
 
 ## 📈 Visualization Plot  
-![Visualization Plot](images/visualization_plot.png)
+![Visualization Plot](images/Visualization_Plot.png)
 
 ---
 
 ## 🔮 Sales Forecast  
-![Sales Forecast](images/Sales_forecast.png)
+![Sales Forecast](images/Sales_forecasting.png)
 
 ---
 
