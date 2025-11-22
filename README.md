@@ -43,9 +43,7 @@ Data Collector → Analysis Agent → Insight Agent → Visualization Agent → 
 
 ## 📺 Video  
 Project demo (Kaggle submission):
-👉 *Paste your YouTube unlisted video link here*
-
----
+👉https://youtu.be/NhEwMKNMGFQ
 
 ## 🚀 Features  
 - Multi-Agent Orchestration  
